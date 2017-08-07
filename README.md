@@ -12,11 +12,8 @@ After long brainstorm and discussion with our mentors and with my group, we deci
 
     ## For Ideation we use Paper Prototyping 
 
-
-
-
-
-
+ 
+<img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_1.JPG" width=300px hight=300p>
 
 
 
@@ -25,6 +22,7 @@ After long brainstorm and discussion with our mentors and with my group, we deci
 
 # Animation Video 
 
+[![Pee Racers](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=8Ct3ShK-exU)
 
 
 
