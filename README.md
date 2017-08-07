@@ -13,13 +13,9 @@ After long brainstorm and discussion with our mentors and with my group, we deci
     ## For Ideation we use Paper Prototyping 
 
  
-<img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_1.JPG" width=300px hight=300p><img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_2.JPG" width=300px hight=300p><img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_3.JPG" width=300px hight=300p> 
+<img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_1.JPG" width=300px hight=300p> <img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_2.JPG" width=300px hight=300p><img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_3.JPG" width=300px hight=300p> 
 <img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_4.JPG" width=300px hight=300p>
  <img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_5.JPG" width=300px hight=300p> 
-
-
-
-
 
 
 
@@ -27,9 +23,23 @@ After long brainstorm and discussion with our mentors and with my group, we deci
 
 [![Pee Racers](https://github.com/harshcrop/Pee-Racer/blob/master/assets/video.png)](https://www.youtube.com/watch?v=8Ct3ShK-exU)
 
+# Project Details
 
+When we generally go to toilets to pee, it is really boring. Many of the people of the world might have to find peeing very monotonous. So we came up with idea that let us make peeing more interesting and amazing. So we came up with an idea about pee racing that is really heteroclitic and funny with having synchronicity in it. This idea was exactly like what we needed exactly. That time we had that eureka feeling.
 
+We decided to make a pee racing game. 
 
+Idea is simple to make this game. There will be one big screen that is projection on the wall. You will find two different cars on different tracks. So one car will be yours and another one will be your friend’s. the game will be like how fast you pee your car will go that much faster. So when both of the people start urinating on some of the parts that will be in the sink their car will move ahead. That is what makes the game interesting and unique.
+
+We made it by using different kinds of tools like Arduino, neodymium magnet,3D printer( to make the turbine), hall effect sensors. We used ceramic plastic to make turbine so that will not get corroded. All these tools are connected in a particular manner. First of all, the turbine will be connected with the neodymium magnets. Neodymium magnet give some sensing effect to the hall effect sensors. Those sensors are connected to the Arduino micro controller board.and Arduino is connected to the projector that can project a game on a screen.
+
+The whole project will be working technically this way. When urine comes up on the turbine, the turbine will rotate. The turbine is having neodymium magnet on it.when it will rotate the magnetic field will change due to a rotation. The change in the magnetic field will be sensed by the hall effect sensors. Hall effect sensors are that transducer which changes outputs in terms of voltage by changing magnetic field. Hall effect sensors will change the given change in voltage to the Arduino. Arduino gives some output that will run through processing software. that processing software will give 
+us digital output on our projected screen.
+
+  ## Project Images
+    
+<img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/3D.JPG" width=300px hight=300p> <img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/3D_1.JPG" width=300px hight=300p>
+<img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/IMG_6151.JPG" width=300px hight=300p>
 
 
 
