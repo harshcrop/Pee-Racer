@@ -32,6 +32,13 @@ After long brainstorm and discussion with our mentors and with my group, we deci
 
 # Technology
 
+  1. Arduino Uno
+  2. Presser Sensor
+  3. Hall-effect sensor
+  4. 3-D Printer For Parts Printing
+  5. Processing Language Game Building
+  6. Pow Toons For Create animation Video
+
 
 
 
