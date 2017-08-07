@@ -13,9 +13,7 @@ After long brainstorm and discussion with our mentors and with my group, we deci
     ## For Ideation we use Paper Prototyping 
 
  
-<img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_1.JPG" width=300px hight=300p> 
-<img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_2.JPG" width=300px hight=300p> 
-<img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_3.JPG" width=300px hight=300p> 
+<img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_1.JPG" width=300px hight=300p><img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_2.JPG" width=300px hight=300p><img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_3.JPG" width=300px hight=300p> 
 <img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_4.JPG" width=300px hight=300p>
  <img alt= "ideationpic" src="https://github.com/harshcrop/Pee-Racer/blob/master/assets/ide_5.JPG" width=300px hight=300p> 
 
@@ -27,7 +25,7 @@ After long brainstorm and discussion with our mentors and with my group, we deci
 
 # Animation Video 
 
-[![Pee Racers](https://github.com/harshcrop/Pee-Racer/blob/master/assets/video.jpg)](https://www.youtube.com/watch?v=8Ct3ShK-exU)
+[![Pee Racers](https://github.com/harshcrop/Pee-Racer/blob/master/assets/video.png)](https://www.youtube.com/watch?v=8Ct3ShK-exU)
 
 
 
